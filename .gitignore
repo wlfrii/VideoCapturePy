@@ -1,0 +1,27 @@
+# === .gitignore files ===
+
+# Ignore the zip files
+*.zip
+
+# Ignore the .user file
+*.user
+
+# Ignore the vs.pdb
+*.pdb
+
+# Ignore the vs.filters and .user file
+*.vcxproj.filters
+*.vcxproj.user
+
+# Ignore the build file/folder
+build*
+app*
+conf*
+unuse_codes*
+__pycache__*
+.vscode*
+
+# Ignore the temp doxygen file
+.DS_Store
+
+main.spec
